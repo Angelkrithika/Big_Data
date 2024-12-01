@@ -1,0 +1,1 @@
+I followed the steps provided in the video link posted on canvas for Cassandra assignmnet. Then I created an account in Datastax followed by practice data base and created a keyspace called sales data, then I generated the tokens and downloaded the bundle. I then connected to the database using google collab. I've then uploaded sales100.csv file and created 3 golden tables
